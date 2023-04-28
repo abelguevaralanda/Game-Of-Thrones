@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'game-of-thrones';
+  font-weight: 400;
+  src: local('game-of-thrones'),
+    url('../../public/assets/fonts/game-of-thrones.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'CinzelDecorative-Regular';
+  font-weight: 400;
+  src: local('CinzelDecorative-Regular'),
+    url('../../public/assets/fonts/CinzelDecorative-Regular.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'CinzelDecorative-Black';
+  font-weight: 700;
+  src: local('CinzelDecorative-Black'),
+    url('../../public/assets/fonts/CinzelDecorative-Black.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'CinzelDecorative-Bold';
+  font-weight: 900;
+  src: local('CinzelDecorative-Bold'),
+    url('../../public/assets/fonts/CinzelDecorative-Bold.ttf') format('ttf');
+}
