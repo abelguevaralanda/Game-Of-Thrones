@@ -1,7 +1,6 @@
 import React, { useEffect } from 'react';
 import { useAppDispatch, useAppSelector } from '../../app/hooks';
 import {
-  APIStatus,
   getAllCharactersAsync,
   selectCharacters,
 } from '../../features/Characters/characters-slice';
