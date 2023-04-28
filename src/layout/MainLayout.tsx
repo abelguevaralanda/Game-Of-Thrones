@@ -6,7 +6,7 @@ const MainLayout = () => {
     <>
       <Main>
         <Title>
-          <img src="../../assets/Daco_156259.svg" alt="game-of-thrones" />
+          <img src="../../assets/got-throne-logo.svg" alt="game-of-thrones" />
         </Title>
         <Outlet />
       </Main>
